@@ -46,4 +46,8 @@ Without this role, AI-driven work risks becoming inconsistent, unpredictable, an
 The AI Project Strategist brings a **structured approach** that aligns logic, behavior, and output transforming fragmented prompt logic into **reliable, repeatable systems**.
 *Because prompting is no longer enough.*
 
+---
 
+If you find this project valuable, consider giving it a ⭐ to support it.
+
+**Built by [NorthTech Digital](https://northtechdigital.com)** • Learn more at [northprompt.org](https://northprompt.org)
